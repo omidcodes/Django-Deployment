@@ -14,6 +14,6 @@ STATIC_URL = '/static/'
 
 
 DEBUG = False
-ALLOWED_HOSTS = ['*'] #['your-app-name.azurewebsites.net'] 
+ALLOWED_HOSTS = ['django-deployment-01-arf6e0edczdqgqc8.canadacentral-01.azurewebsites.net'] # TODO : Hardcoded, remove me
 
 # SECRET_KEY = os.environ['DJANGO_SECRET_KEY']  # TODO : FIXME 
