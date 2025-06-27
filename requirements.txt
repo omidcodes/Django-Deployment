@@ -1,1 +1,4 @@
-Django
+asgiref==3.8.1
+Django==5.2.3
+sqlparse==0.5.3
+whitenoise==6.9.0
